@@ -75,7 +75,7 @@ This module is a parody.  However the struggle is real.
   }
 
   sub DumpFile ($filename, $data) {
-    Path::Tiny->new($filename)->spew_utf8(JSON::MaybeXS::encode_json($data));
+    Path::Tiny->new($filename)->spew_raw(JSON::MaybeXS::encode_json($data));
     return undef;
   }
 
