@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+  - Added comment referring peoples to JSONLD module which implements JSON-LD
+    (gh#3, gh#4)
 
 0.02      2024-12-14 18:34:51 -0700
   - Fix bug where files are written as UTF-8 instead of raw (gh#2)
