@@ -10,6 +10,7 @@ pod_spelling_system:
     - LoadFile
     - Cpanel
     - Ns
+    - JSONLD
 
 pod_coverage:
   skip: 0

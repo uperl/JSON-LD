@@ -17,6 +17,8 @@ package JSON::LD {
 
 =head1 DESCRIPTION
 
+B<NOTE>: Not to be confused with L<JSON-LD|JSONLD>.
+
 Ever want to load JSON from a file?  Ever forget which module it is that you are
 supposed to be using now?  Is it L<JSON> or L<JSON::PP> or L<JSON::XS> or
 L<JSON::Syck> or L<Cpanel::JSON::XS> (how many Ns are in Cpanel?  For some reason
