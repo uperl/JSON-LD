@@ -13,7 +13,7 @@ my $data - LoadFile("foo.json:");
 
 # DESCRIPTION
 
-**NOTE**: Not to be confused with [JSONLD](https://metacpan.org/pod/JSON-LD).
+**NOTE**: Not to be confused with [JSON-LD](https://metacpan.org/pod/JSONLD).
 
 Ever want to load JSON from a file?  Ever forget which module it is that you are
 supposed to be using now?  Is it [JSON](https://metacpan.org/pod/JSON) or [JSON::PP](https://metacpan.org/pod/JSON::PP) or [JSON::XS](https://metacpan.org/pod/JSON::XS) or
